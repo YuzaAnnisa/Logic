@@ -1,0 +1,14 @@
+{
+  "name": "batch220_nodejs",
+  "version": "1.0.0",
+  "description": "latihan logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "annisa",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
